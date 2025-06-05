@@ -9,7 +9,7 @@ author_profile: true
 
 Nucleon-Nucleon Short Range Correlations (NN-SRC) refer to the phenomenon where two nucleons within a nucleus exhibit strong interactions at short distances, leading to high-momentum components in the nuclear wave function. This has significant implications for understanding nuclear structure and dynamics.
 
-![](https://bjcai-phys.github.io/images/nk-rmp.jpg){: width="50%"}
+![Sketch of nucleon momentum distribution, figure taken from <ins>O.Hen et al., RMP,89, 045002</ins>](https://bjcai-phys.github.io/images/nk-rmp.jpg){: width="50%"}{: .center-image}
 
 
 ### Key Findings
