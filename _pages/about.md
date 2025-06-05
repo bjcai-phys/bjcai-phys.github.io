@@ -1,13 +1,13 @@
-
 ---
 permalink: /
-title: "sge"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 layout: single
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 ![](https://bjcai-phys.github.io/images/fd-logo.png){:width="50%"}
 
