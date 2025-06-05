@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Research"
+title: "Research Topics"
 permalink: /research/
 author_profile: true
 ---
-
-
 
 ## Nucleon-Nucleon Short Range Correlations
 
