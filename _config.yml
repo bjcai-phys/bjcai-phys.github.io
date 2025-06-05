@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://bjcai-phys.github.io/assets/me.jpg"
+  avatar           : "https://bjcai-phys.github.io/images/me1.jpg"
   name             : "Bao-Jun Cai"
   pronouns         : # example: "she/her"  
   bio              : "Nuclear Astrophysics, Physics of Neutron Stars, Statistical Learning Algorithms"
