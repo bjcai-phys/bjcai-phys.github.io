@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research"
-permalink: /research/
+permalink: "https://bjcai-phys.github.io/research/"
 author_profile: true
 ---
 
