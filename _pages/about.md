@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Strong Interacting Cold Superdense Matter Group"
+layout: single
 author_profile: true
 redirect_from: 
   - /about/
