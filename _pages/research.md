@@ -3,10 +3,9 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
-
-
-
 ---
+
+
 
 ## Nucleon-Nucleon Short Range Correlations
 
