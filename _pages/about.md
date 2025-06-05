@@ -12,7 +12,7 @@ redirect_from:
 ![](https://bjcai-phys.github.io/images/fd-logo.png){:width="50%"}
 
 # **Strongly Interacting Cold Superdense Matter**
-## Group operated under the broader research program headed by Academician Yu-Gang Ma.
+## Group operating within the broader research program led by Academician Yu-Gang Ma.
 
 
 
