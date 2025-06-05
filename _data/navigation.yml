@@ -23,8 +23,8 @@ main:
   - title: "Gallery"
     url: /gallery/
 
-   - title: "Research Tools"
-    url: /researchtools/
+  #- title: "Research Tools"
+  #  url: /researchtools/
     
   - title: "CV"
     url: /cv/
