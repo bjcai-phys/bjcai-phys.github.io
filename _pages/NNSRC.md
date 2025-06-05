@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Nucleon-Nucleon Short Range Correlations (NNSRCs)"
-permalink: /nucleon-nucleon-short-range-correlation/
+permalink: /research/nucleon-nucleon-short-range-correlation/
 ---
 
 ## Overview
