@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Strong Interacting Cold Superdense Matter Group"
+title: "-Strongly Interacting Cold Superdense Matter- Group"
 layout: single
 author_profile: true
 redirect_from: 
