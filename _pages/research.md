@@ -25,7 +25,11 @@ This novel approach can be extended to investigate structure of rotating neutron
 ![](https://bjcai-phys.github.io/images/ipadtov-skt.jpg){:width="100%"}
 
 
-## Quantum Hadrodynamics for Nuclear Many-body Problems
+##  Relativistic Nuclear Many-body Problems via Quantum Hadrodynamics
+
+Figure taken from <ins>B.Serot and J.Walecka, Adv.Nucl.Phys., 16, 1 (1986).</ins>
+
+![](https://bjcai-phys.github.io/images/QHD-skt.jpg){:width="100%"}
 
 ## Low-density Equation of State under QCD Sum Rules
 
