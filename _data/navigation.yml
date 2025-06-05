@@ -9,10 +9,8 @@
 
 main:
   - title: "Research"
-    children:
-      - title: "Nucleon-Nucleon Short Range Correlations"
-        url: /research/nucleon-nucleon-short-range-correlations/
-
+    url: /research/
+    
   - title: "Publications"
     url: /publications/
 
