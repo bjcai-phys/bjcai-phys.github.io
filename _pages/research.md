@@ -45,4 +45,6 @@ Building on the powerful framework of Quantum Hadrodynamics, Professor Cai’s g
 
 ## Low-density Equation of State under QCD Sum Rules
 
+## Nuclear Systems in Low Dimensions
 
+## Data Science, Large-scale Optimizations and Learning Algorithms
