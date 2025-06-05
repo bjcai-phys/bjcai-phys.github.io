@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 layout: single
 author_profile: true
 redirect_from: 
@@ -11,9 +11,9 @@ redirect_from:
 
 ![](https://bjcai-phys.github.io/images/fd-logo.png){:width="50%"}
 
-# \"Strongly Interacting Cold Superdense Matter\" Group
+# **Strongly Interacting Cold Superdense Matter**
 
-The group operates under the broader research program headed by Academician Yu-Gang Ma.
+**The group operates under the broader research program headed by Academician Yu-Gang Ma.**
 
 
 
