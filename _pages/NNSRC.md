@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nucleon-Nucleon Short Range Correlations"
+title: "Nucleon-Nucleon Short Range Correlations (NNSRCs)"
 permalink: /nucleon-nucleon-short-range-correlation/
 ---
 
