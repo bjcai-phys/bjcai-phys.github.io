@@ -1,7 +1,7 @@
 
 ---
 permalink: /
-title: ""
+title: "sge"
 layout: single
 author_profile: true
 redirect_from: 
