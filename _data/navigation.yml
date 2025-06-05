@@ -22,6 +22,9 @@ main:
     
   - title: "Gallery"
     url: /gallery/
+
+  - title: "Test"
+    url: /test/
     
   - title: "CV"
     url: /cv/
