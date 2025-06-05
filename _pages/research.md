@@ -11,7 +11,7 @@ Nucleon-Nucleon Short Range Correlations (NN-SRCs) refer to the phenomenon where
 
 $$n_k$$
 
-![Sketch of nucleon momentum distribution, figure taken from <ins>O.Hen et al., RMP,89, 045002</ins>](https://bjcai-phys.github.io/images/nk-rmp.jpg){: width="50%"}{: .center-image}
+![Sketch of nucleon momentum distribution, figure taken from <ins>O.Hen et al., RMP,89, 045002</ins>](https://bjcai-phys.github.io/images/nk-rmp.jpg){: width="60%"}
 
 
 ### Key Findings
