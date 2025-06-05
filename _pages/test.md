@@ -1,6 +1,6 @@
 ---
 layout:single
 title:"Test"
-permalink:"/test/"
+permalink:/test/
 author_profile:true
 ---
