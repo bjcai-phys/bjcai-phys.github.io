@@ -13,8 +13,12 @@ Nucleon-Nucleon Short Range Correlations (NN-SRC) refer to the phenomenon where 
 
 ### Key Findings
 
-- Approximately 20% of nucleons participate in short-range correlations.
-- Proton-neutron pairs dominate these correlations.
-- Studies of NN-SRC provide insights into the behavior of nuclear matter under extreme conditions.
+(1) Approximately 20% of nucleons participate in short-range correlations.
+(2) Proton-neutron pairs dominate these correlations.
+(3) Studies of NN-SRC provide insights into the behavior of nuclear matter under extreme conditions.
+
+### Exciting Topics to be Investigated:
+
+(1) 
 
 
