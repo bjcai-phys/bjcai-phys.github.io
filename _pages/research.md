@@ -11,7 +11,7 @@ Nucleon-nucleon short range correlations (NN-SRCs) refer to the phenomenon where
 
 $$n_{\mathbf{k}} = \int_{-\infty}^0\frac{{\rm d}\omega}{2\pi}\mathcal{A}(\mathbf{k},\omega)=Z_{\mathbf{k}}\Theta(-\epsilon_{\mathbf{k}})+\frac{C}{\mathbf{k}^4}\Theta(\epsilon_{\mathbf{k}})$$
 
-![Sketch of nucleon momentum distribution, figure taken from <ins>O.Hen et al., RMP, 89, 045002</ins>](https://bjcai-phys.github.io/images/nk-sk.jpg){: width="100%"}
+![Sketch of nucleon momentum distribution, figure taken from <ins>O.Hen et al., RMP, 89, 045002</ins>](https://bjcai-phys.github.io/images/nk-sk.jpg)
 
 
 ### Key Findings
