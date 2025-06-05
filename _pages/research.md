@@ -25,6 +25,6 @@ This novel approach can be extended to investigate structure of rotating neutron
 ![](https://bjcai-phys.github.io/images/ipadtov-skt.jpg){:width="100%"}
 
 
-## Relativistic-Mean-Field Theory and its Developments
+## Quantum Hydrodynamics and Nuclear Equation of State
 
 
