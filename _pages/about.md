@@ -11,6 +11,7 @@ redirect_from:
 
 ![](https://bjcai-phys.github.io/images/fd-logo-rg.png){:width="80%"}
 
+# Welcome!
 
 We are a research group fueled by a passion to unravel our Universe at its most fundamental level. Central to our work is the **strong interaction**—the mighty force described by **Quantum Chromodynamics** that binds quarks and gluons into protons, neutrons, and atomic nuclei. We aim to unlock the secrets of **superdense matter** in neutron star cores under strong-field gravity in **General Relativity**, probe the **deep/fundamental structure of quantum systems**, and explore **exotic particles** born in extreme environments. Our research spans from the energetic dynamics of **heavy ion collisions** to the subtle **ripples of gravitational waves** traversing spacetime, pushing the boundaries of nuclear physics and astrophysics. Alongside, we leverage large-scale learning algorithms to decipher **complex data** and uncover **hidden truths** about the laws governing our Universe.
 
