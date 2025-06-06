@@ -11,6 +11,8 @@ redirect_from:
 
 ![](https://bjcai-phys.github.io/images/fd-logo-rg.png){:width="80%"}
 
+<br>
+
 # Welcome!
 
 We are a research group fueled by a passion to unravel our Universe at its most fundamental level. Central to our work is the **strong interaction**—the mighty force described by **Quantum Chromodynamics** that binds quarks and gluons into protons, neutrons, and atomic nuclei. We aim to unlock the secrets of **superdense matter** in neutron star cores under strong-field gravity in **General Relativity**, probe the **deep/fundamental structure of quantum systems**, and explore **exotic particles** born in extreme environments. Our research spans from the energetic dynamics of **heavy ion collisions** to the subtle **ripples of gravitational waves** traversing spacetime, pushing the boundaries of nuclear physics and astrophysics. Alongside, we leverage large-scale learning algorithms to decipher **complex data** and uncover **hidden truths** about the laws governing our Universe.
@@ -31,6 +33,12 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 - We have the courage to admit when we are wrong, the tenacity to change and the determination to improve.
 
 
+
+
+
+
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
@@ -71,3 +79,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
