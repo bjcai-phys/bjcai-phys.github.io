@@ -20,9 +20,9 @@ We are a research group fueled by a passion to unravel our Universe at its most 
 We believe science thrives on **curiosity**, **focus**, **collaboration**, and **shared growth**. In our group, learning is a vibrant exchange—where students and researchers inspire, challenge, and uplift each other. If you’re fueled by a sense of wonder, excited to tackle questions that stretch from the tiniest quantum fields to the vastness of neutron stars, and ready to embark on a bold adventure of discovery with passion and purpose, we eagerly welcome you to join us and grow together.
 
 <br>
-<small>
+
 ### Manifesto from Tim Cook
-- We believe that we exist to make great discoveries.
+<small>- We believe that we exist to make great discoveries.</small>
 - We believe in innovation and thinking out of the box.
 - We believe in the simple, not the complex.
 - We believe in seeking a deep understanding of the mathematics behind the discoveries we make.
@@ -32,7 +32,7 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 - We believe in striving for excellence in all aspects of our work and we settle for no less.
 - We believe in honesty above all, even when the truth does not benefit us.
 - We have the courage to admit when we are wrong, the tenacity to change and the determination to improve.
-</small>
+
 
 
 
