@@ -22,7 +22,7 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 <br>
 
 ### Manifesto from Tim Cook
-<small>- We believe that we exist to make great discoveries.</small>
+- We believe that we exist to make great discoveries.
 - We believe in innovation and thinking out of the box.
 - We believe in the simple, not the complex.
 - We believe in seeking a deep understanding of the mathematics behind the discoveries we make.
