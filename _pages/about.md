@@ -22,16 +22,16 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 <br>
 
 ### Manifesto from Tim Cook
-- We believe that we exist to make great discoveries.
-- We believe in innovation and thinking out of the box.
-- We believe in the simple, not the complex.
-- We believe in seeking a deep understanding of the mathematics behind the discoveries we make.
-- We believe in doing research only on areas where we can make a significant and new contribution.
-- We believe in saying no to thousands of projects so that we can concentrate our efforts on the most meaningful ones.
-- We believe in extensive collaboration and cross-pollination in order to innovate in ways individuals cannot.
-- We believe in striving for excellence in all aspects of our work and we settle for no less.
-- We believe in honesty above all, even when the truth does not benefit us.
-- We have the courage to admit when we are wrong, the tenacity to change and the determination to improve.
+- *We believe that we exist to make great discoveries.*
+- *We believe in innovation and thinking out of the box.*
+- *We believe in the simple, not the complex.*
+- *We believe in seeking a deep understanding of the mathematics behind the discoveries we make.*
+- *We believe in doing research only on areas where we can make a significant and new contribution.*
+- *We believe in saying no to thousands of projects so that we can concentrate our efforts on the most meaningful ones.*
+- *We believe in extensive collaboration and cross-pollination in order to innovate in ways individuals cannot.*
+- *We believe in striving for excellence in all aspects of our work and we settle for no less.*
+- *We believe in honesty above all, even when the truth does not benefit us.*
+- *We have the courage to admit when we are wrong, the tenacity to change and the determination to improve.*
 
 
 
