@@ -34,7 +34,7 @@ As precision data from LIGO, NICER, and the upcoming eXTP mission continue to sh
 ##  Relativistic Nuclear Many-body Problems via Quantum Hadrodynamics
 
 While non-relativistic nuclear models have laid important groundwork in describing low-energy nuclear phenomena, they inherently fall short when confronted with the complexities of dense and relativistic nuclear systems. They fail to naturally explain the saturation of nuclear matter, underestimate the magnitude of spin-orbit splitting in finite nuclei, and break down in regimes of high density and energy—such as those encountered in neutron stars and heavy-ion collisions. In contrast, QHD, introduced through the seminal Walecka model, offers a powerful relativistic field-theoretical framework that captures the essential dynamics of nuclear matter. By modeling nucleons as Dirac particles interacting via meson exchange—most notably, the attractive scalar (sigma) and repulsive vector (omega) mesons—the Walecka model provides an elegant and physically transparent mechanism for nuclear saturation and the emergence of realistic spin-orbit interactions. Extensions of the model incorporate isovector mesons (such as the rho) and nonlinear self-interactions, enabling accurate descriptions of asymmetric matter and high-density environments. More profoundly, QHD captures many emergent features anticipated from QCD in its non-perturbative regime, including effective hadronic degrees of freedom, spontaneous symmetry breaking, and in-medium modifications of masses and couplings. In this sense, the Walecka model not only remedies the deficiencies of non-relativistic approaches but also stands as a vital bridge between fundamental QCD and the phenomenology of finite nuclei, nuclear matter, and astrophysical compact objects.
-Figure taken from <ins>B.Serot and J.Walecka, Adv.Nucl.Phys., 16, 1 (1986).</ins>
+Figures taken from <ins>B.Serot and J.Walecka, Adv.Nucl.Phys., 16, 1 (1986).</ins>
 
 ![](https://bjcai-phys.github.io/images/QHD-skt.jpg){:width="100%"}
 
@@ -46,6 +46,9 @@ Building on the powerful framework of Quantum Hadrodynamics, Professor Cai’s g
 ## Low-density Isospin Asymmetric Nuclear Matter from QCD Sum Rules
 
 The QCD sum rules method is a powerful non-perturbative framework for probing hadronic properties directly from the fundamental theory of strong interactions. Pioneered by Shifman, Vainshtein, and Zakharov in the 1970s, this method bridges the gap between the microscopic world of quarks and gluons and the macroscopic observables of hadron physics. At its heart lies the operator product expansion, which disentangles short-distance (perturbative) contributions—treatable via perturbative QCD—from long-distance (non-perturbative) dynamics encoded in vacuum condensates, such as quark and gluon condensates. These condensates capture the complexity of the QCD vacuum and embody the profound idea that hadrons are not merely bound states of valence quarks, but also shaped by the rich quantum structure of the vacuum itself. The method constructs dispersion relations for two-point correlation functions of quark currents, linking their theoretical (QCD) and phenomenological (hadronic) representations. A Borel transformation is applied to suppress continuum contributions and enhance sensitivity to the ground state, making the extraction of hadron masses, decay constants, and medium modifications feasible. As a semi-analytic tool that reflects the core principles of QCD, the sum rules method has become a cornerstone in hadron spectroscopy, nuclear matter studies, and investigations of hot and dense QCD matter.
+
+![](https://bjcai-phys.github.io/images/qsr-skt.png){:width="100%"}
+
 
 
 
