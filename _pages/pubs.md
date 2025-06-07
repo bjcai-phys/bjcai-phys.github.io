@@ -12,7 +12,7 @@ You can welcomely find my articles on <a href="https://scholar.google.com/citati
 
 ## Selected Work 1: Central Neutron Star Equation of State from IPAD-TOV
 
-## Selected Work 2: Equation of State of Nuclear Matter in *d* Dimensions
+## Selected Work 2: Equation of State of Nuclear Matter in $d$ Dimensions
 
 ## Selected Work 3: Pure Neutron Matter under QCD Sum Rules
 
