@@ -34,7 +34,7 @@ This project investigates the low-density equation of state of isospin-asymmetri
 ![](https://bjcai-phys.github.io/images/w3.png){:width="100%"}
 
 
-## Selected Work 4: Proton Moves Faster than Neutrons in Neutron Skins
+## Selected Work 4: Proton Moves Faster than Neutron in Neutron Skins
 
 This project explores the dual manifestation of neutron skins in coordinate space and proton skins in momentum space in heavy nuclei. Governed by Liouville’s theorem and Heisenberg’s uncertainty principle, the coexistence and correlation of these spatial and momentum distributions are investigated within an extended Thomas-Fermi approximation that incorporates the effects of nucleon short-range correlations. The analysis reveals a general and robust feature: in nuclei with neutron-rich surfaces, protons tend to exhibit higher average momenta than neutrons. This finding provides a novel perspective on the internal dynamics of asymmetric nuclear systems and deepens our understanding of the interplay between spatial and momentum distributions in finite nuclei. For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.94.061302" target="_blank">this paper</a>.
 
