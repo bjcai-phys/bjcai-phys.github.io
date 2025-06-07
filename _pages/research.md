@@ -70,3 +70,10 @@ Looking forward, Professor Cai’s group try to (1) gain fresh insights into exo
 
 
 ## Data Science, Large-scale Optimization and Learning Algorithms
+
+Recent advances in data science and large-scale optimization have ushered in a new era of intelligent systems, driven by powerful learning architectures such as deep neural networks, transformers, and diffusion models. These modern frameworks have transformed diverse fields, including machine learning, computer vision, computer graphics, and bioinformatics, by enabling automatic pattern discovery, semantic understanding, high-resolution image synthesis, and molecular structure prediction. Beyond computational breakthroughs, these algorithms have reshaped scientific workflows by turning massive datasets into predictive models, offering new perspectives and augmenting human intuition.
+
+In the realm of nuclear physics and astrophysics, data-driven approaches are increasingly essential for probing the structure of matter under extreme conditions and for interpreting signals from the universe. Machine learning techniques enable the acceleration of many-body calculations, the identification of phase transitions in strongly correlated systems, and the constraint of nuclear interactions from experimental data. In heavy-ion collisions, where petabytes of data are generated, modern algorithms play a crucial role in extracting rare and subtle signals hidden within overwhelming backgrounds. In astrophysics, learning-based methods assist in decoding gravitational waveforms, modeling neutron star mergers, and analyzing high-dimensional data from observatories. As theoretical models and observational datasets grow in complexity, the fusion of modern algorithms with fundamental physics offers transformative potential for uncovering the deep laws of nature.
+
+
+
