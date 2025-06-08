@@ -12,4 +12,5 @@ author_profile: true
 * [two short lecture notes 1](https://bjcai-phys.github.io/images/Tu1-pp.pdf) and [2](https://bjcai-phys.github.io/images/Tu2-pp.pdf)
 
 ### Seminar on Many-body Physics and Linear Response Theories
+* basis of Green's function theories and linear response 
 * [lecture note](https://bjcai-phys.github.io/images/LectMB.pdf)
