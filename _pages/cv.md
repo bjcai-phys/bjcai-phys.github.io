@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Theoretical Physics, Shanghai Jiao Tong University, 2014
+  * Thesis: Relativistic Effective Interactions and Equation of State of Asymmetric Nuclear Matter
 * B.S. in Physics, Shanghai Jiao Tong University, 2009
+  * Thesis: Nuclear Fourth-order Symmetry Energy in Nonlinear Relativistic Mean Field Models 
 
 Work experience
 ======
