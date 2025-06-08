@@ -10,7 +10,7 @@ author_profile: true
 You can welcomely find my articles on <a href="https://scholar.google.com/citations?hl=en&user=Sji0PwMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">my Google Scholar profile</a>.
 
 
-## Selected Work: Direct Extraction of the Central Neutron Star Equation of State without Relying on Specific Input Model
+### Selected Work: Model-independent Direct Extraction of the Central Neutron Star Equation of State
 
 Understanding the extreme physical conditions inside neutron stars is a major challenge in modern nuclear astrophysics. A key difficulty lies in the large theoretical uncertainty of the equation of state of dense matter, which governs how pressure and energy density relate deep within these compact stars. In this work, we introduce IPAD-TOV (Intrinsic and Perturbative Analyses of the Dimensionless Tolman-Oppenheimer-Volkoff equations), a novel reformulation of the TOV equations that describe hydrostatic equilibrium in general relativity. By expressing the TOV equations in a dimensionless form, IPAD-TOV uncovers nearly universal relations among core quantities such as pressure, energy density, and sound speed, relations that remain robust across a wide range of equation of state models. This framework enables a model-independent anatomical study of neutron star interiors, allowing key core properties to be inferred directly from observations. By linking global observables to microphysical insights, IPAD-TOV provides a powerful new tool to constrain the behavior of strongly interacting matter in one of nature’s most extreme environments. For details, see our <a href="https://iopscience.iop.org/article/10.3847/1538-4357/acdef0/meta" target="_blank">paper 1</a> and <a href="https://link.springer.com/article/10.1140/epja/s10050-025-01507-7" target="_blank">paper 2</a>, and related <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.103041" target="_blank">paper 3</a>, <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.083015" target="_blank">paper 4</a> and <a href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2024.1502888/full" target="_blank">paper 5</a>.
 
@@ -34,7 +34,7 @@ This work generalizes the Hugenholtz–Van Hove theorem to arbitrary spatial dim
 <!-- ![](https://bjcai-phys.github.io/images/w2-c.png){:width="100%"} -->
 
 
-## Selected Work: What Does a Vanishing Pressure of Pure Neutron Matter Mean?
+## Selected Work: What Does the Absence of Saturation Density in Pure Neutron Matter Imply?
 
 This project investigates the intrinsic correlations between the equation of state parameters of symmetric nuclear matter and the nuclear symmetry energy, based on the fundamental physical constraint that pure neutron matter is unbound in nature that is, it does not saturate at any finite density and continues to lower its energy as the density decreases. By expressing the energy per nucleon of neutron-rich matter as a power series in isospin asymmetry, an analytical condition is derived from setting the saturation density of pure neutron matter to zero. This leads to sum rules that link key symmetry energy parameters, such as its slope, curvature, and skewness, to better-determined parameters of symmetric nuclear matter, such as incompressibility, skewness, and kurtosis. These model-independent correlations reproduce trends observed in various microscopic and phenomenological studies, offering a powerful tool to constrain the poorly known high-density behavior of nuclear symmetry energy using more reliably known properties of symmetric matter.
 For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.034607" target="_blank">this paper</a>.
@@ -44,7 +44,7 @@ $L\approx\frac{K_0}{3}\cdot(1+\cdots)$
 
 
 
-## Selected Work: Neutron and Nuclear Matter under QCD Sum Rules
+## Selected Work: Neutron and Nuclear Matter Probed by QCD Sum Rules
 
 This project investigates the low-density equation of state of isospin-asymmetric nuclear matter using QCD sum rules, providing a connection between nuclear matter properties and the underlying quark and gluon dynamics. Based on the Hugenholtz–Van Hove theorem, the approach enables the derivation of analytical expressions for key quantities such as the energy per particle, pressure, and symmetry energy, grounded in fundamental QCD condensates. By incorporating inputs from nuclear experiments and astrophysical observations, the framework constrains the in-medium behavior of quark and gluon condensates and offers insight into hadronic modifications and partial chiral symmetry restoration. Special attention is given to the treatment of four-quark condensates, which are modeled through effective interpolation but play a non-negligible role in theoretical uncertainties. The use of complex-valued Borel transformations helps improve the resolution of spectral functions, extending the applicability of the method. Low-density neutron matter, with its near-universal behavior similar to a unitary Fermi gas, provides a compelling testing ground for these calculations, particularly for extracting imaginary parts of self-energies and transport coefficients through other advanced techniques. For details, see our <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.97.054322" target="_blank">paper 1</a> and <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.100.024303" target="_blank">paper 2</a>. 
 
@@ -54,7 +54,7 @@ $$E_{\rm{n}}(\rho)
 ![](https://bjcai-phys.github.io/images/w3.png){:width="100%"}
 
 
-## Selected Work: Proton Moves Faster than Neutron in Neutron Skins
+## Selected Work: Protons Move Faster than Neutrons in Neutron-Rich Nuclear Skins
 
 This project explores the dual manifestation of neutron skins in coordinate space and proton skins in momentum space in heavy nuclei. Governed by Liouville’s theorem and Heisenberg’s uncertainty principle, the coexistence and correlation of these spatial and momentum distributions are investigated within an extended Thomas-Fermi approximation, which is a model-independent semiclassical framework. This approach incorporates the effects of nucleon short-range correlations, capturing universal features of finite nuclear systems without reliance on specific interaction models. A key physical insight lies in the high-momentum tail of the nucleon momentum distribution, induced by short-range correlations and characterized by a pronounced isospin dependence, favoring proton enrichment at high momenta in neutron-rich systems. This mechanism underlies the robust finding that, in nuclei with neutron-rich surfaces, protons tend to exhibit higher average momenta than neutrons. The study offers a new lens through which to view the internal dynamics of asymmetric nuclei and sheds light on the fundamental interplay between spatial and momentum distributions. For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.94.061302" target="_blank">this paper</a>.
 
@@ -62,7 +62,16 @@ $$n_{\mathbf{k}}\sim\psi^2(\mathbf{k})\to\frac{C}{|\mathbf{k}|^4},~~|\mathbf{k}|
 
 ![](https://bjcai-phys.github.io/images/w4.png){:width="100%"}
 
-## Selected Work: Self-energy Decomposition of Nuclear Symmetry Energy 
+
+## Selected Work: Softening of Nuclear Symmetry Energy Due to Isospin-dependent Nucleon-nucleon Short-range Correlations
+
+This project explores the impact of nucleon-nucleon short-range correlations, which stem from the strongly isospin-dependent nuclear tensor force. These correlations significantly enhance the interaction between neutron–proton pairs compared to like-nucleon pairs, leading to a redistribution of nucleons in momentum space: a larger fraction of protons are promoted to high-momentum states above the Fermi surface in neutron-rich matter. This isospin-dependent modification of the nucleon momentum distribution has profound implications. One of the most important is its softening effect on the nuclear symmetry energy, particularly at supra-saturation densities. The symmetry energy, which quantifies the energy cost of converting protons into neutrons in nuclear matter, becomes less stiff due to the increased high-momentum content of protons relative to neutrons. This softening has consequences for the structure of neutron-rich nuclei and the properties of dense astrophysical objects like neutron stars. The phenomenon is investigated within a modified Gogny–Hartree–Fock energy density functional that incorporates the high-momentum tail of the nucleon momentum distribution, allowing for a detailed and physically grounded analysis. For details, see our <a href="https://pubs.aip.org/aip/acp/article/2038/1/020041/760344/Effects-of-neutron-proton-short-range-correlation" target="_blank">paper 1</a> and <a href="[https://journals.aps.org/prc/abstract/10.1103/PhysRevC.100.024303](https://arxiv.org/abs/2210.10924)" target="_blank">paper 2</a>. 
+
+$$E_{\textrm{sym}}(\rho)\approx E_{\textrm{n}}(\rho)-E_{\textrm{0}}(\rho)$$
+
+![](https://bjcai-phys.github.io/images/w-SRCEsym.png){:width="100%"}
+
+## Selected Work: Lorentz Covariant Self-energy Decomposition of Nuclear Symmetry Energy
 
 This project utilizes the Hugenholtz–Van Hove theorem to derive analytical expressions for the nuclear symmetry energy and its density slope in terms of Lorentz covariant nucleon self-energies in isospin asymmetric nuclear matter. These model-independent formulations provide key insights into the density dependence and microscopic origin of the symmetry energy within a fully relativistic framework. As an illustrative case, the decomposition of self-energies is analyzed in the nonlinear scalar-vector-isovector-scalar (commonly denoted as sigma–omega–rho–delta) relativistic mean-field model, where closed-form expressions are obtained. The results clarify how specific meson-nucleon couplings and Lorentz structures shape the behavior of the symmetry energy, contributing to a deeper theoretical understanding of isospin effects in dense nuclear matter.
 For details, see <a href="https://www.sciencedirect.com/science/article/pii/S0370269312003425" target="_blank">this paper</a>.
