@@ -80,8 +80,14 @@ $${\int_0^{k_{\textrm{F}}^J}\overbrace{(\textrm{FFG step function})}^{\Theta(k_{
 
 ![](https://bjcai-phys.github.io/images/w-SRCNS.png){:width="100%"}
 
-### Selected Word: Significant Quartic Term in Kinetic Energy of Neutron-rich Matter from Isospin-dependent Nucleon Momentum Distribution
+### Selected Work: Significant Quartic Term in Kinetic Energy of Neutron-rich Matter from Isospin-dependent Nucleon Momentum Distribution
 
+This work reveals that, contrary to the nearly parabolic approximation commonly assumed, the kinetic energy of interacting nucleons in neutron-rich matter contains a significant quartic term. By incorporating isospin-dependent single-nucleon momentum distributions characterized by both a low-momentum depletion and a high-momentum tail, constrained by recent experiments and advanced many-body calculations, the quartic contribution is found to be substantial. This finding has important implications for accurately determining the equation of state of neutron-rich nucleonic matter and impacts the interpretation of nuclear reaction data as well as the structure and behavior of neutron stars. For details, see our <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.92.011601" target="_blank">paper 1</a> and <a href="https://www.sciencedirect.com/science/article/pii/S0146641018300012" target="_blank">paper 2</a>.
+
+$$E^{\textrm{kin}}(\rho,\delta)=\frac{1}{\rho}\underbrace{\frac{2}{(2\pi)^3}\sum_{\textrm{J=n,p}}\int_0^{\infty}
+\frac{\mathbf{k}^2}{2M}n_{\mathbf{k}}^J(\rho,\delta)\textrm{d}\mathbf{k}}_{\textrm{kinetic energy density }\varepsilon^{\textrm{kin}}(\rho,\delta)}$$
+
+![](https://bjcai-phys.github.io/images/w-SRCNS.png){:width="100%"}
 
 
 
