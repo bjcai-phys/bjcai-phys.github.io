@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -29,34 +29,16 @@ Work experience
   * Collaboration Advisor: Prof. Dr. Bao-An Li
 
 
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Equation of State of Superdense Neutron Star Matter
+* Nucleon Short-range Correlations and their Novel Effects on Neutron Star Properties
+* Quantum Hadrodynamics and QCD-based Effective Theoreis for Nuclear Many-body Problems
+* Nucleon-hyperon Interaction, Exotic Resonance States and Their Impacts on Neutron Stars
+* Neutrino-nucleus Coherent Interactions at Low Energies in Dense Matter
+* Strong-fields and Vacuum Polarization Effects on Neutron Stars and Heavy-ion Collisions
+* Astrophysical Magnetohydrodynamics and Nonlinear Processes
+* Non-equilibrium Many-body Theories and Close-time Green’s Function Methods
+* Computational Physics, Bayesian Optimization and Large-scale Computing
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
