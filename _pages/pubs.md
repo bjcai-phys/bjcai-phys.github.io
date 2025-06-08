@@ -52,5 +52,7 @@ $$n_{\mathbf{k}}\sim\psi^2(\mathbf{k})\to\frac{C}{|\mathbf{k}|^4},~~|\mathbf{k}|
 This project utilizes the Hugenholtz–Van Hove theorem to derive analytical expressions for the nuclear symmetry energy and its density slope in terms of Lorentz covariant nucleon self-energies in isospin asymmetric nuclear matter. These model-independent formulations provide key insights into the density dependence and microscopic origin of the symmetry energy within a fully relativistic framework. As an illustrative case, the decomposition of self-energies is analyzed in the nonlinear scalar-vector-isovector-scalar (commonly denoted as sigma–omega–rho–delta) relativistic mean-field model, where closed-form expressions are obtained. The results clarify how specific meson-nucleon couplings and Lorentz structures shape the behavior of the symmetry energy, contributing to a deeper theoretical understanding of isospin effects in dense nuclear matter.
 For details, see <a href="https://www.sciencedirect.com/science/article/pii/S0370269312003425" target="_blank">this paper</a>.
 
+$$E_{\rm{sym}}(\rho)=\frac{k_{\rm{F}}^2}{6E_{\rm{F}}^{\ast}}+\frac{\Sigma_{\rm{S}}^{\rm{sym}}(\rho)}{2}\frac{M_0^{\ast}}{E_{\rm{F}}^{\ast}}+\frac{\Sigma_{\rm{V}}^{\rm{sym}}(\rho)}{2}$$
+
 ![](https://bjcai-phys.github.io/images/w5.png){:width="100%"}
 
