@@ -109,3 +109,11 @@ $$E_{\rm{sym}}(\rho)=\frac{k_{\rm{F}}^2}{6E_{\rm{F}}^{\ast}}+\frac{\Sigma_{\rm{S
 
 ![](https://bjcai-phys.github.io/images/w5.png){:width="100%"}
 
+### Unveiling Fourth-order Symmetry Energy in Relativistic Nuclear Matter and Neutron Stars
+
+Within the nonlinear relativistic mean-field model, an analytical expression for the fourth-order nuclear matter symmetry energy is derived. Using two accurately calibrated interactions, FSUGold and IU-FSU, the fourth-order symmetry energy at normal nuclear matter density is found to be generally below 1 MeV, confirming the empirical parabolic approximation’s validity near saturation density. However, at higher densities, this fourth-order term becomes non-negligible. The derived expression enables a detailed study of higher-order effects on the isobaric incompressibility of asymmetric nuclear matter, showing that the fourth-order incompressibility term is generally small compared to the quadratic term. Importantly, incorporating the fourth-order symmetry energy significantly increases the proton fraction and reduces the core-crust transition density and pressure in neutron stars compared to calculations relying solely on the empirical parabolic approximation. These findings highlight potential large errors when neglecting higher-order symmetry energy contributions in modeling neutron star interiors within this relativistic framework, consistent with prior nonrelativistic results.
+For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.85.024302" target="_blank">this paper</a>.
+
+$$E_{\rm{sym,4}}(\rho)=24^{-1}[{\partial^4E(\rho,\delta)}/{\partial\delta^4}]_{\delta=0}$$
+
+![](https://bjcai-phys.github.io/images/w-RMFE4.png){:width="100%"}
