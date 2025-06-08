@@ -11,6 +11,8 @@ redirect_from:
 
 ![](https://bjcai-phys.github.io/images/fd-logo-rg.png){:width="80%"}
 
+![](https://bjcai-phys.github.io/images/sk-SN.webp){:width="80%"}
+
 <br>
 
 # Welcome!
