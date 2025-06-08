@@ -19,7 +19,7 @@ We are a research group fueled by a passion to unravel our Universe at its most 
 
 We believe science thrives on **curiosity**, **focus**, **collaboration**, and **shared growth**. In our group, learning is a vibrant exchange—where students and researchers inspire, challenge, and uplift each other. If you’re inspired by a sense of wonder, excited to tackle questions that stretch from the tiniest quantum fields to the vastness of neutron stars and black holes, and ready to embark on a bold adventure of discovery with commitment and purpose, we eagerly welcome you to join us and grow together.
 
-Connect [us](bjcai@fudan.edu.cn) at your convenience!
+[Connect us](mailto:bjcai@fudan.edu.cn) at your convenience!
 
 <br>
 
