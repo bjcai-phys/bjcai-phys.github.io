@@ -34,8 +34,17 @@ This work generalizes the Hugenholtz–Van Hove theorem to arbitrary spatial dim
 <!-- ![](https://bjcai-phys.github.io/images/w2-c.png){:width="100%"} -->
 
 
+## Selected Work: What Does a Vanishing Pressure of Pure Neutron Matter Mean?
 
-## Selected Work: Pure Neutron/Nuclear Matter under QCD Sum Rules
+This project investigates the intrinsic correlations between the equation of state parameters of symmetric nuclear matter and the nuclear symmetry energy, based on the fundamental physical constraint that pure neutron matter is unbound in nature that is, it does not saturate at any finite density and continues to lower its energy as the density decreases. By expressing the energy per nucleon of neutron-rich matter as a power series in isospin asymmetry, an analytical condition is derived from setting the saturation density of pure neutron matter to zero. This leads to sum rules that link key symmetry energy parameters, such as its slope, curvature, and skewness, to better-determined parameters of symmetric nuclear matter, such as incompressibility, skewness, and kurtosis. These model-independent correlations reproduce trends observed in various microscopic and phenomenological studies, offering a powerful tool to constrain the poorly known high-density behavior of nuclear symmetry energy using more reliably known properties of symmetric matter.
+For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.034607" target="_blank">this paper</a>.
+
+$L\approx\frac{K_0}{3}\cdot(1+\cdots)$
+![](https://bjcai-phys.github.io/images/w-unbound.png){:width="100%"}
+
+
+
+## Selected Work: Neutron and Nuclear Matter under QCD Sum Rules
 
 This project investigates the low-density equation of state of isospin-asymmetric nuclear matter using QCD sum rules, providing a connection between nuclear matter properties and the underlying quark and gluon dynamics. Based on the Hugenholtz–Van Hove theorem, the approach enables the derivation of analytical expressions for key quantities such as the energy per particle, pressure, and symmetry energy, grounded in fundamental QCD condensates. By incorporating inputs from nuclear experiments and astrophysical observations, the framework constrains the in-medium behavior of quark and gluon condensates and offers insight into hadronic modifications and partial chiral symmetry restoration. Special attention is given to the treatment of four-quark condensates, which are modeled through effective interpolation but play a non-negligible role in theoretical uncertainties. The use of complex-valued Borel transformations helps improve the resolution of spectral functions, extending the applicability of the method. Low-density neutron matter, with its near-universal behavior similar to a unitary Fermi gas, provides a compelling testing ground for these calculations, particularly for extracting imaginary parts of self-energies and transport coefficients through other advanced techniques. For details, see our <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.97.054322" target="_blank">paper 1</a> and <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.100.024303" target="_blank">paper 2</a>. 
 
