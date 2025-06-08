@@ -37,7 +37,7 @@ Research Interests
 * Nucleon-hyperon Interaction and Exotic Resonance States
 * Neutrino-nucleus Coherent Interactions at Low Energies in Dense Matter
 * Strong-fields and Vacuum Polarization Effects on Neutron Stars and Heavy-ion Collisions
-* Astrophysical Magnetohydrodynamics and Nonlinear/turbulent Processes
+* Astrophysical Magnetohydrodynamics and Nonlinear/Turbulent Processes
 * Non-equilibrium Many-body Theories and Close-time Green’s Function Methods
 * Computational Physics, Bayesian Optimization and Large-scale Computing
 
