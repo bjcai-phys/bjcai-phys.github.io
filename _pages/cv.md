@@ -12,16 +12,17 @@ redirect_from:
 Education
 ======
 * Ph.D in Theoretical Physics, Shanghai Jiao Tong University, 2014
-  * Thesis: Relativistic Effective Interactions and Equation of State of Asymmetric Nuclear Matter
+  * Thesis: *Relativistic Effective Interactions and Equation of State of Asymmetric Nuclear Matter*
 * B.S. in Physics, Shanghai Jiao Tong University, 2009
-  * Thesis: Nuclear Fourth-order Symmetry Energy in Nonlinear Relativistic Mean Field Models 
+  * Thesis: *Nuclear Fourth-order Symmetry Energy in Nonlinear Relativistic Mean Field Models*
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 5/2025-present: Associate Professor, Fudan University
+* 8/2018-4/2025: Chief Scientist, Shadow Creator
+* 9/2017-7/2018: Assistant Professor, Shanghai University
+* 1/2017-8/2017: Visiting Scholar, Shanghai Jiao Tong University
+* 7/2014-12/2016: Postdoctoral Research Associate, Texas A&M University-Commerce
 
 * Fall 2015: Research Assistant
   * GitHub University
