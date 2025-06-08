@@ -76,12 +76,16 @@ $$E_{\textrm{sym}}(\rho)\approx E_{\textrm{n}}(\rho)-E_{\textrm{0}}(\rho)$$
 
 Short-range nucleon-nucleon correlations strongly modify the single-nucleon momentum distribution in neutron-rich matter, creating a high-momentum tail that significantly impacts the equation of state. Incorporating these effects into a nonlinear relativistic mean field model reveals important consequences for neutron stars. The high-momentum nucleons increase the kinetic pressure at densities above nuclear saturation, which in turn enhances the maximum mass that neutron stars can support. Additionally, the short-range correlations soften the density dependence of the nuclear symmetry energy around saturation density, making it more concave at both lower and higher densities. This softening leads to an isospin-dependent incompressibility of asymmetric nuclear matter that aligns better with experimental data and influences neutron star structure and stability. Overall, considering nucleon-nucleon short-range correlations provides a more realistic description of dense matter inside neutron stars and helps explain observed neutron star masses. For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.93.014619" target="_blank">this paper</a>.
 
-$$\textcolor[rgb]{0,0,1}{{\int_0^{k_{\textrm{F}}^J}\overbrace{(\textrm{FFG step function})}^{\Theta(k_{\textrm{F}}^J-|\mathbf{k}|)}s(\mathbf{k},\rho,\delta)\textrm{d}\mathbf{k}\to\int_0^{\phi_Jk_{\textrm{F}}^J}n_{\mathbf{k}}^J(\textrm{HMT})s(\mathbf{k},\rho,\delta)\textrm{d}\mathbf{k}}}$$
+$${\int_0^{k_{\textrm{F}}^J}\overbrace{(\textrm{FFG step function})}^{\Theta(k_{\textrm{F}}^J-|\mathbf{k}|)}s(\mathbf{k},\rho,\delta)\textrm{d}\mathbf{k}\to\int_0^{\phi_Jk_{\textrm{F}}^J}n_{\mathbf{k}}^J(\textrm{HMT})s(\mathbf{k},\rho,\delta)\textrm{d}\mathbf{k}}$$
 
 ![](https://bjcai-phys.github.io/images/w-SRCNS.png){:width="100%"}
 
+### Selected Word: Significant Quartic Term in Kinetic Energy of Neutron-rich Matter from Isospin-dependent Nucleon Momentum Distribution
 
-## Selected Work: Lorentz Covariant Self-energy Decomposition of Nuclear Symmetry Energy
+
+
+
+### Selected Work: Lorentz Covariant Self-energy Decomposition of Nuclear Symmetry Energy
 
 This project utilizes the Hugenholtz–Van Hove theorem to derive analytical expressions for the nuclear symmetry energy and its density slope in terms of Lorentz covariant nucleon self-energies in isospin asymmetric nuclear matter. These model-independent formulations provide key insights into the density dependence and microscopic origin of the symmetry energy within a fully relativistic framework. As an illustrative case, the decomposition of self-energies is analyzed in the nonlinear scalar-vector-isovector-scalar (commonly denoted as sigma–omega–rho–delta) relativistic mean-field model, where closed-form expressions are obtained. The results clarify how specific meson-nucleon couplings and Lorentz structures shape the behavior of the symmetry energy, contributing to a deeper theoretical understanding of isospin effects in dense nuclear matter.
 For details, see <a href="https://www.sciencedirect.com/science/article/pii/S0370269312003425" target="_blank">this paper</a>.
