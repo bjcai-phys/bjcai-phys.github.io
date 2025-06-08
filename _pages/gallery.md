@@ -5,5 +5,5 @@ permalink: /gallery/
 author_profile: true
 ---
 
-I will eventually put more photos and news in this section.
+I will eventually put photos and news in this section.
 
