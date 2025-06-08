@@ -7,7 +7,9 @@ author_profile: true
 
 I will put related material in this section eventually.
 
-* ### [an excellent review](https://www.sciencedirect.com/science/article/pii/S0370157308001269) to start nuclear symmetry energy and heavy-ion collisions
+* ###a good review on [relativistic nuclear many body physics](https://inspirehep.net/literature/207866)
+
+* ### an excellent review to start [nuclear symmetry energy and heavy-ion collisions](https://www.sciencedirect.com/science/article/pii/S0370157308001269)
 
 * ### [the classic textbook](https://www.amazon.com/Black-Holes-White-Dwarfs-Neutron/dp/0471873160) for learning physics of neutron stars
 
