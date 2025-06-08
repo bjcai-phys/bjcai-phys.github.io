@@ -34,7 +34,7 @@ $$p(\mathcal{O}|\mathbf{y})=\sum_{i=\rm{model}}p(\mathcal{O}|\mathbf{y},\mathcal
 This work revisits the connection between the fourth-order symmetry energy of infinite nuclear matter at saturation density and its counterpart in finite nuclei within the semiempirical nuclear mass formula framework. By explicitly incorporating high-order isospin-dependent surface tension effects, we derive a complete expression for the finite-nucleus fourth-order symmetry energy. We demonstrate that extracting the nuclear matter fourth-order symmetry energy from finite nuclei data requires precise knowledge of these surface tension contributions. Our findings reconcile previously conflicting large values of finite-nucleus symmetry energy with empirical constraints from mean-field models, showing that ignoring high-order surface tension can significantly overestimate the nuclear matter parameter. Additionally, we provide the expression for the sixth-order symmetry energy of finite nuclei, which depends on more bulk nuclear matter parameters and higher-order surface tension effects.
 For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.044319" target="_blank">this paper</a>.
 
-$$a_{\rm{sym,4}}^{\rm{surf}}(A)=\frac{4\alpha^4\theta\kappa}{\beta A^{1/3}}\cdot(1+\alpha/\beta A^{1/3})^{-4}$$
+$$a_{\rm{sym,4}}^{\rm{s}}(A)=\frac{4\alpha^4\theta\kappa}{\beta A^{1/3}}\cdot(1+\alpha/\beta A^{1/3})^{-4}$$
 
 ![](https://bjcai-phys.github.io/images/w-E4fin.png){:width="100%"}
 
