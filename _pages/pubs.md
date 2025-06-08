@@ -26,6 +26,20 @@ $$p(\mathcal{O}|\mathbf{y})=\sum_{i=\rm{model}}p(\mathcal{O}|\mathbf{y},\mathcal
 
 ![](https://bjcai-phys.github.io/images/w-BMA.png){:width="100%"}
 
+### Selected Work: Implications of the Non-existence of a Surface in Nuclear Matter
+
+This work revisits the connection between the fourth-order symmetry energy of infinite nuclear matter at saturation density and its counterpart in finite nuclei within the semiempirical nuclear mass formula framework. By explicitly incorporating high-order isospin-dependent surface tension effects, we derive a complete expression for the finite-nucleus fourth-order symmetry energy. We demonstrate that extracting the nuclear matter fourth-order symmetry energy from finite nuclei data requires precise knowledge of these surface tension contributions. Our findings reconcile previously conflicting large values of finite-nucleus symmetry energy with empirical constraints from mean-field models, showing that ignoring high-order surface tension can significantly overestimate the nuclear matter parameter. Additionally, we provide the expression for the sixth-order symmetry energy of finite nuclei, which depends on more bulk nuclear matter parameters and higher-order surface tension effects.
+For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.044319" target="_blank">this paper</a>.
+
+$$a_{\rm{sym,4}}^{\rm{surf}}(A)=\frac{4\alpha^4\theta\kappa}{\beta A^{1/3}}\cdot(1+\alpha/\beta A^{1/3})^{-4}$$
+
+![](https://bjcai-phys.github.io/images/w-E4fin.png){:width="100%"}
+
+
+
+
+
+
 ### Selected Work:Equation of State of Nuclear Matter in Arbitrary Spatial Dimensions
 This work generalizes the Hugenholtz–Van Hove theorem to arbitrary spatial dimensions and derives analytical expressions for the equation of state of asymmetric nuclear matter across different dimensional settings. By systematically analyzing the behavior of key nuclear matter properties, such as pressure, incompressibility, and symmetry energy, in reduced or increased spatial dimensions, the study reveals that nuclear systems become more tightly bound and the symmetry energy generally decreases in lower-dimensional spaces. The parabolic approximation remains robust, supported by the suppressed role of higher-order terms across dimensions. An epsilon-expansion framework, based on perturbations around the conventional 3D case, enables tractable connections between the equation of state in 3D and its counterparts in nearby dimensions. A phenomenological model consistent with empirical nuclear and astrophysical constraints is constructed to investigate these effects in detail. The findings indicate that systems in low dimensions often behave like nearly free Fermi gases, especially when short-range correlations are included, while higher-dimensional cases can exhibit unbound behavior. These insights not only offer new perspectives on the dimensional dependence of strongly interacting matter but also have potential implications for modeling exotic nuclear systems, emergent few-body structures, and the behavior of dense matter in astrophysical environments. For details, see <a href="https://www.sciencedirect.com/science/article/abs/pii/S000349162200183X" target="_blank">this paper</a>.
 
