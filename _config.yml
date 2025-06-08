@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/search/astro-ph?query=bao-jun+cai&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Sji0PwMAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=FnWB-ewAAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8150-1020"
   semantic         : # URL
