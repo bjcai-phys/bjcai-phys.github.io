@@ -40,6 +40,7 @@ This project investigates the intrinsic correlations between the equation of sta
 For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.034607" target="_blank">this paper</a>.
 
 $$L\approx\frac{K_0}{3}\cdot(1+\cdots)$$
+
 ![](https://bjcai-phys.github.io/images/w-unbound.png){:width="100%"}
 
 
@@ -70,6 +71,15 @@ This project explores the impact of nucleon-nucleon short-range correlations, wh
 $$E_{\textrm{sym}}(\rho)\approx E_{\textrm{n}}(\rho)-E_{\textrm{0}}(\rho)$$
 
 ![](https://bjcai-phys.github.io/images/w-SRCEsym.png){:width="100%"}
+
+### Selected Work: Role of High-momentum Nucleons in Neutron Star Equation of State and Mass Limit
+
+Short-range nucleon-nucleon correlations strongly modify the single-nucleon momentum distribution in neutron-rich matter, creating a high-momentum tail that significantly impacts the equation of state. Incorporating these effects into a nonlinear relativistic mean field model reveals important consequences for neutron stars. The high-momentum nucleons increase the kinetic pressure at densities above nuclear saturation, which in turn enhances the maximum mass that neutron stars can support. Additionally, the short-range correlations soften the density dependence of the nuclear symmetry energy around saturation density, making it more concave at both lower and higher densities. This softening leads to an isospin-dependent incompressibility of asymmetric nuclear matter that aligns better with experimental data and influences neutron star structure and stability. Overall, considering nucleon-nucleon short-range correlations provides a more realistic description of dense matter inside neutron stars and helps explain observed neutron star masses. For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.93.014619" target="_blank">this paper</a>.
+
+$$\textcolor[rgb]{0,0,1}{{\int_0^{k_{\textrm{F}}^J}\overbrace{(\textrm{FFG step function})}^{\Theta(k_{\textrm{F}}^J-|\mathbf{k}|)}s(\mathbf{k},\rho,\delta)\textrm{d}\mathbf{k}\to\int_0^{\phi_Jk_{\textrm{F}}^J}n_{\mathbf{k}}^J(\textrm{HMT})s(\mathbf{k},\rho,\delta)\textrm{d}\mathbf{k}}}$$
+
+![](https://bjcai-phys.github.io/images/w-SRCNS.png){:width="100%"}
+
 
 ## Selected Work: Lorentz Covariant Self-energy Decomposition of Nuclear Symmetry Energy
 
