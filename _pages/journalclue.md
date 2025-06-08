@@ -9,7 +9,7 @@ I will put related material in this section eventually.
 
 ### [an excellent review](https://www.sciencedirect.com/science/article/pii/S0370157308001269) to start nuclear symmetry energy and heavy-ion collisions
 
-### [the classic textbook](https://www.amazon.com/Black-Holes-White-Dwarfs-Neutron/dp/0471873160) for learning physics neutron stars
+### [the classic textbook](https://www.amazon.com/Black-Holes-White-Dwarfs-Neutron/dp/0471873160) for learning physics of neutron stars
 
 ![](https://bjcai-phys.github.io/images/G-ShapiroTeukolsky.png){:width="30%"}
 
