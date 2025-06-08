@@ -21,7 +21,7 @@ Education
 Work experience
 ======
 * 5/2025-present: Associate Professor, Fudan University
-* 8/2018-4/2025: Chief Scientist, Shadow Creator
+* 8/2018-4/2025: Chief Scientist, Shadow Creator Inc.
 * 9/2017-7/2018: Assistant Professor, Shanghai University
 * 1/2017-8/2017: Visiting Scholar, Shanghai Jiao Tong University
 * 7/2014-12/2016: Postdoctoral Research Associate, Texas A&M University-Commerce
