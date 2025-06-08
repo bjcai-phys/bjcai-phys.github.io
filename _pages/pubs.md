@@ -18,7 +18,7 @@ $$ M_{\rm{NS}}\sim \frac{\Pi_{\rm{c}}^{3/2}}{\sqrt{\varepsilon_{\rm{c}}}},R\sim 
 
 ![](https://bjcai-phys.github.io/images/w1.png){:width="100%"}
 
-### Selected Word: Bayesian Model Averaging for Nuclear Symmetry Energy
+### Selected Work: Bayesian Model Averaging for Nuclear Symmetry Energy
 
 This project applies a data-driven Bayesian model averaging framework to constrain the nuclear symmetry energy at subsaturation densities. Bayesian model averaging is a rigorous statistical approach that integrates predictions from multiple theoretical models, yielding more robust estimates in the presence of model-dependent uncertainties. By analyzing the effective proton-neutron chemical potential differences in several neutron-rich doubly magic nuclei, the study identifies a strong sensitivity to the symmetry energy around two-thirds of nuclear saturation density. Using Gaussian process emulators trained on both Skyrme energy density functionals and relativistic mean field models, the symmetry energy in this density region is inferred with reduced theoretical bias. The extracted result aligns well with predictions from microscopic theories and other empirical indicators, demonstrating the effectiveness of BMA in improving the reliability of nuclear matter constraints. For details, see <a href="https://www.sciencedirect.com/science/article/pii/S0370269323007682" target="_blank">this paper</a>.
 
@@ -88,6 +88,15 @@ $$E^{\textrm{kin}}(\rho,\delta)=\frac{1}{\rho}\underbrace{\frac{2}{(2\pi)^3}\sum
 \frac{\mathbf{k}^2}{2M}n_{\mathbf{k}}^J(\rho,\delta)\textrm{d}\mathbf{k}}_{\textrm{kinetic energy density }\varepsilon^{\textrm{kin}}(\rho,\delta)}$$
 
 ![](https://bjcai-phys.github.io/images/w-SRCE4.png){:width="100%"}
+
+### Do Delta Resonance States Appear Early in Neutron Stars?
+
+This project investigates the critical densities for the formation of Δ(1232) resonances in neutron stars using an extended nonlinear relativistic mean-field model. The onset densities of the four Δ charge states exhibit distinct sensitivities to the kinetic and potential components of the nuclear symmetry energy, marking the first microphysical property of neutron stars shown to depend differently on these components. Additionally, the critical densities strongly depend on the in-medium Δ mass and the poorly known Δ–rho meson coupling strength. Assuming universal baryon-meson couplings, the earliest appearance of Δ−(1232) occurs around twice the nuclear saturation density. The study further reveals that both the composition and the mass-radius relation of neutron stars vary significantly with these Δ-related parameters, highlighting the importance of Δ resonances in dense matter astrophysics. For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.92.015802" target="_blank">this paper</a>.
+
+$$\Delta^-+\rm{p}\to\rm{n}+\rm{n}$$
+
+![](https://bjcai-phys.github.io/images/w-Delta.png){:width="100%"}
+
 
 
 
