@@ -9,6 +9,8 @@ author_profile: true
 
 You can welcomely find my articles on <a href="https://scholar.google.com/citations?hl=en&user=Sji0PwMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">my Google Scholar profile</a>.
 
+<br>
+
 # Selected Works
 
 ### Model-independent Direct Extraction of the Central Neutron Star Equation of State
