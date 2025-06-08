@@ -18,6 +18,8 @@ Education
   * Thesis: *Nuclear Fourth-order Symmetry Energy in Nonlinear Relativistic Mean Field Models*
   * Advisor: [Prof. Dr. Lie-Wen Chen](https://scholar.google.com/citations?user=jKJnZNgAAAAJ&hl=en)
 
+<br>
+
 Work experience
 ======
 * 5/2025-present: Associate Professor, Fudan University
@@ -28,7 +30,7 @@ Work experience
   * Project: *Nucleon-nucleon Short-range Correlations in Neutron-rich Matter and Neutron Stars*
   * Collaboration Advisor: [Prof. Dr. Bao-An Li](https://scholar.google.com/citations?user=-0gnvt4AAAAJ&hl=en)
 
-
+<br>
 Research Interests
 ======
 * Nucleon Short-range Correlations and Their Impacts in Heavy-ion Collisions
