@@ -20,13 +20,13 @@ main:
  # - title: "Talks"
  #   url: /talks/    
   
-  - title: "Talks/Presentations"
+  - title: "Talks"
     url: /tps/    
 
  # - title: "Teaching"
  #   url: /teaching/ 
  
-  - title: "Teaching/Courses"
+  - title: "Teaching"
     url: /tcs/    
 
     
