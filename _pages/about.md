@@ -37,7 +37,7 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 - *We believe in honesty above all, even when the truth does not benefit us.*
 - *We have the courage to admit when we are wrong, the tenacity to change and the determination to improve.*
 
-![](https://bjcai-phys.github.io/images/sk-NF.jpg){:width="100%"}
+<!-- ![](https://bjcai-phys.github.io/images/sk-NF.jpg){:width="100%"} -->
 
 
 
