@@ -23,8 +23,12 @@ main:
   - title: "Talks/Presentations"
     url: /tps/    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/ 
+ 
+  - title: "Teaching/Courses"
+    url: /tcs/    
+
     
   - title: "Gallery"
     url: /gallery/
