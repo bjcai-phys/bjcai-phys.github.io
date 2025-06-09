@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Journal Club"
-permalink: /journalclub/
+permalink: /jc/
 author_profile: true
 ---
 
