@@ -17,9 +17,9 @@ I will put related material in this section eventually.
 * ### the book focusing on [matrix calculations](https://[numerical.recipes](https://www.amazon.com/dp/1421407949/ref=mes-dp?_encoding=UTF8&pd_rd_w=GCZKX&content-id=amzn1.sym.a8908360-3609-476b-8c64-1eef634998b7&pf_rd_p=a8908360-3609-476b-8c64-1eef634998b7&pf_rd_r=ZBT9MN6XHYGQ52NYWM7J&pd_rd_wg=3xu8J&pd_rd_r=3182eee5-5976-4b4d-9444-b47cca0b6c35))
    ![](https://bjcai-phys.github.io/images/MCgolub.jpg){:width="30%"} 
    
-* ### the classic textbook for learning [physics of neutron stars](https://www.amazon.com/Black-Holes-White-Dwarfs-Neutron/dp/0471873160)
+* ### the textbook for learning [physics of neutron stars](https://www.amazon.com/Black-Holes-White-Dwarfs-Neutron/dp/0471873160)
 
-    ![](https://bjcai-phys.github.io/images/G-ShapiroTeukolsky.png){:width="30%"}
+    ![](https://bjcai-phys.github.io/images/G-ShapiroTeukolsky.png){:width="35%"}
 
 * ### a good book for [statistical machine learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?crid=2SCVI6ZZXMUBY&dib=eyJ2IjoiMSJ9.ySmiEtcDzxTcwr1z1UsYhr3z4VdJIUeZhvEIJuX6ynlW5YiLru_wOe48Ekq9lr_oEoczl4Iyllt3J1v_-xDMh0AhnYnGyaA5paAkLxPVlZlnQPoZix_qQxCX52rLfFB3ve6vNR_4eKt1vALkjXQa6V1NPHV2-btYOq_OzrylJ_3KhmtE364VRG02fi_Pz3Ix-zGS0bA3Dr2zy16XwFZT9WLy7_OaK8McMIBZuvyOuRc.jTufpcjSOQ5UEnSxZ0ign7iUZxQmcd4no66fBgXjr4k&dib_tag=se&keywords=the+elements+of+statistical+learning&qid=1749357469&s=books&sprefix=s%2Cstripbooks%2C2929&sr=1-1) from modern viewpoint
 
