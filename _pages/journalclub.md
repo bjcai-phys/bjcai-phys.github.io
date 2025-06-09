@@ -11,6 +11,8 @@ I will put related material in this section eventually.
 
 * ### an excellent review to start [nuclear symmetry energy and heavy-ion collisions](https://www.sciencedirect.com/science/article/pii/S0370157308001269)
 
+* ### a book on [theory of finite Fermi systems and the applications to atomic nuclei](https://www.google.com/books/edition/Theory_of_Finite_Fermi_Systems_and_Appli/M-NEAAAAIAAJ?hl=en)
+
 * ### the reference on [numerical calculations](https://numerical.recipes)
    ![](https://bjcai-phys.github.io/images/NRcpp.jpg){:width="30%"}       ![](https://bjcai-phys.github.io/images/NRfortran.jpg){:width="30.3%"}
 
