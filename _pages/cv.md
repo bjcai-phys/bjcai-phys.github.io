@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+* Postdoctoral Research Associate, Texas A&M University-Commerce, 7/2014-12/2016
+  * Project: *Nucleon-nucleon Short-range Correlations in Neutron-rich Matter and Neutron Stars*
+  * Collaboration Advisor: [Prof. Dr. Bao-An Li](https://scholar.google.com/citations?user=-0gnvt4AAAAJ&hl=en)
 * Ph.D in **Theoretical Physics**, Shanghai Jiao Tong University, 2014
   * Thesis: *Relativistic Effective Interactions and Equation of State of Asymmetric Nuclear Matter*
   * Advisor: [Prof. Dr. Lie-Wen Chen](https://scholar.google.com/citations?user=jKJnZNgAAAAJ&hl=en)
@@ -26,9 +29,6 @@ Work experience
 * 8/2018-4/2025: Chief Scientist, Shadow Creator Inc.
 * 9/2017-7/2018: Assistant Professor, Shanghai University
 * 1/2017-8/2017: Visiting Scholar, Shanghai Jiao Tong University
-* 7/2014-12/2016: Postdoctoral Research Associate, Texas A&M University-Commerce
-  * Project: *Nucleon-nucleon Short-range Correlations in Neutron-rich Matter and Neutron Stars*
-  * Collaboration Advisor: [Prof. Dr. Bao-An Li](https://scholar.google.com/citations?user=-0gnvt4AAAAJ&hl=en)
 
 <br>
 
