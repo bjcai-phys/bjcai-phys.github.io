@@ -19,5 +19,6 @@ I will put related material in this section eventually.
 
     ![](https://bjcai-phys.github.io/images/G-ESL.png){:width="40%"}
 
-  * ### a recent book on [deep learning with computer vision applications](https://www.amazon.com/Understanding-Deep-Learning-Simon-Prince/dp/0262048647/ref=pd_bxgy_thbs_d_sccl_2/130-6229383-0581031?pd_rd_w=vwaHw&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=XN30YMPZZ4VJ6MB8QEE3&pd_rd_wg=1nnXu&pd_rd_r=a827cad6-34cd-4263-bc5c-a5b05fde7be8&pd_rd_i=0262048647&psc=1)
+* ### a recent book on [deep learning with computer vision applications](https://www.amazon.com/Understanding-Deep-Learning-Simon-Prince/dp/0262048647/ref=pd_bxgy_thbs_d_sccl_2/130-6229383-0581031?pd_rd_w=vwaHw&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=XN30YMPZZ4VJ6MB8QEE3&pd_rd_wg=1nnXu&pd_rd_r=a827cad6-34cd-4263-bc5c-a5b05fde7be8&pd_rd_i=0262048647&psc=1)
+  
     ![](https://bjcai-phys.github.io/images/PrinceDL.jpg){:width="40%"}
