@@ -69,7 +69,7 @@ $$E_{\rm{n}}(\rho)
 ![](https://bjcai-phys.github.io/images/w3.png){:width="100%"}
 
 
-### Protons Move Faster than Neutrons in Neutron-Rich Nuclear Skins
+### Protons Move Faster than Neutrons in Skins of Neutron-rich Nuclei
 
 This project explores the dual manifestation of neutron skins in coordinate space and proton skins in momentum space in heavy nuclei. Governed by Liouville’s theorem and Heisenberg’s uncertainty principle, the coexistence and correlation of these spatial and momentum distributions are investigated within an extended Thomas-Fermi approximation, which is a model-independent semiclassical framework. This approach incorporates the effects of nucleon short-range correlations, capturing universal features of finite nuclear systems without reliance on specific interaction models. A key physical insight lies in the high-momentum tail of the nucleon momentum distribution, induced by short-range correlations and characterized by a pronounced isospin dependence, favoring proton enrichment at high momenta in neutron-rich systems. This mechanism underlies the robust finding that, in nuclei with neutron-rich surfaces, protons tend to exhibit higher average momenta than neutrons. The study offers a new lens through which to view the internal dynamics of asymmetric nuclei and sheds light on the fundamental interplay between spatial and momentum distributions. For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.94.061302" target="_blank">this paper</a>.
 
