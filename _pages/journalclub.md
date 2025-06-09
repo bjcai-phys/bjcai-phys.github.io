@@ -12,7 +12,7 @@ I will put related material in this section eventually.
 * ### an excellent review to start [nuclear symmetry energy and heavy-ion collisions](https://www.sciencedirect.com/science/article/pii/S0370157308001269)
 
 * ### the reference on [numerical calculations](https://numerical.recipes)
-   ![](https://bjcai-phys.github.io/images/NRcpp.jpg){:width="30%"}   ![](https://bjcai-phys.github.io/images/NRfortran.jpg){:width="30%"}
+   ![](https://bjcai-phys.github.io/images/NRcpp.jpg){:width="30%"}       ![](https://bjcai-phys.github.io/images/NRfortran.jpg){:width="32%"}
 
 * ### the book focusing on [matrix calculations](https://[numerical.recipes](https://www.amazon.com/dp/1421407949/ref=mes-dp?_encoding=UTF8&pd_rd_w=GCZKX&content-id=amzn1.sym.a8908360-3609-476b-8c64-1eef634998b7&pf_rd_p=a8908360-3609-476b-8c64-1eef634998b7&pf_rd_r=ZBT9MN6XHYGQ52NYWM7J&pd_rd_wg=3xu8J&pd_rd_r=3182eee5-5976-4b4d-9444-b47cca0b6c35))
    ![](https://bjcai-phys.github.io/images/MCgolub.jpg){:width="30%"} 
