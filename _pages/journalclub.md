@@ -28,3 +28,6 @@ I will put related material in this section eventually.
 * ### a recent book on [deep learning with computer vision applications](https://www.amazon.com/Understanding-Deep-Learning-Simon-Prince/dp/0262048647/ref=pd_bxgy_thbs_d_sccl_2/130-6229383-0581031?pd_rd_w=vwaHw&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=XN30YMPZZ4VJ6MB8QEE3&pd_rd_wg=1nnXu&pd_rd_r=a827cad6-34cd-4263-bc5c-a5b05fde7be8&pd_rd_i=0262048647&psc=1)
   
     ![](https://bjcai-phys.github.io/images/PrinceDL.jpg){:width="40%"}
+
+* ### the main reference book on [traditional geometry-based computer vision algorithms](https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518/ref=pd_bxgy_thbs_d_sccl_1/130-6229383-0581031?pd_rd_w=xA6wE&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=6033299N6S6TMTGWC8FT&pd_rd_wg=bQYtY&pd_rd_r=00951dbe-b079-4b0c-877a-075ad669c50d&pd_rd_i=0521540518&psc=1) including 3D reconstruction basis and bundle adjustment (matrix-related optimization)
+   ![](https://bjcai-phys.github.io/images/MVG.jpg){:width="30%"}  
