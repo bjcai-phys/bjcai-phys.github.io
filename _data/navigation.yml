@@ -29,13 +29,12 @@ main:
   - title: "Teaching"
     url: /tcs/    
 
-    
+  - title: "Journal Club"
+    url: /jc/
+        
   - title: "Gallery"
     url: /gallery/
 
-  - title: "Journal Club"
-    url: /jc/
-    
   - title: "CV"
     url: /cv/
     
