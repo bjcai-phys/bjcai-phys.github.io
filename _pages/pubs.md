@@ -7,7 +7,9 @@ author_profile: true
 
 # Publications
 
-You can welcomely find my articles on <a href="https://scholar.google.com/citations?hl=en&user=FnWB-ewAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">my Google Scholar profile</a>.
+You can welcomely find my articles on <a href="https://scholar.google.com/citations?hl=en&user=FnWB-ewAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">my Google Scholar profile</a> or <a href="https://arxiv.org/search/astro-ph?query=Bao-Jun+Cai&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+" target="_blank">arXiv</a>.
+
 
 <br>
 
