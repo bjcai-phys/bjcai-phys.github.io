@@ -16,3 +16,7 @@ author_profile: true
 ### Invited Talk given at [7th International Workshop on Nuclear Dynamics in Heavy Ion Reactions](https://iwnd2024.scievent.com/participants/)
 * 4/19/2024-4/23/2024, Sun Yat-sen University/Zhuhai/China
 * Title: Equation of State of Neutron Star Cores
+
+### Talk given at [INT Program INT-16-2b: The Phases of Dense Matter](https://archive.int.washington.edu/PROGRAMS/16-2b/)
+* 7/11/2016-8/12/2016, INT/Seattle/WA
+* Title: [Formation of Delta(1232) in Neutron Stars](https://archive.int.washington.edu/talks/WorkShops/int_16_2b/)
