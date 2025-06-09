@@ -43,5 +43,6 @@ Research Interests
 * Astrophysical Magnetohydrodynamics, Nonlinear/Turbulent Processes
 * Non-equilibrium Many-body Theories, Close-time Green’s Function Methods
 * Computational Physics, Bayesian Optimization and Large-scale Computing
+* Computer Vision Algorithms, 3D Reconstruction, Motion Estimate, Statistical Learning
 
 
