@@ -30,4 +30,7 @@ I will put related material in this section eventually.
     ![](https://bjcai-phys.github.io/images/PrinceDL.jpg){:width="40%"}
 
 * ### the main reference book on [traditional geometry-based computer vision algorithms](https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518/ref=pd_bxgy_thbs_d_sccl_1/130-6229383-0581031?pd_rd_w=xA6wE&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=6033299N6S6TMTGWC8FT&pd_rd_wg=bQYtY&pd_rd_r=00951dbe-b079-4b0c-877a-075ad669c50d&pd_rd_i=0521540518&psc=1) including 3D reconstruction basis and bundle adjustment (matrix-related optimization)
-   ![](https://bjcai-phys.github.io/images/MVG.jpg){:width="30%"}  
+   ![](https://bjcai-phys.github.io/images/MVG.jpg){:width="30%"}
+
+* ### a reader-friendly book on [massive data mining](http://www.mmds.org/)
+   ![](https://bjcai-phys.github.io/images/massiveDM.jpg){:width="30%"}
