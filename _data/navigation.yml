@@ -34,7 +34,7 @@ main:
     url: /gallery/
 
   - title: "Journal Club"
-    url: /journalclub/
+    url: /jc/
     
   - title: "CV"
     url: /cv/
