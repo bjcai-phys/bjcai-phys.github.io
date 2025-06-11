@@ -25,6 +25,10 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 
 <br>
 
+[Institute of Modern Physics@Fudan–2025 Summer Camp Application Notice for Outstanding Students](https://mp.weixin.qq.com/s/CjNtUoCTWvhyMr-NTT-sAA)
+
+<br>
+
 ### Manifesto from Tim Cook
 - *We believe that we exist to make great discoveries.*
 - *We believe in innovation and thinking out of the box.*
