@@ -23,7 +23,7 @@ repository               : "bjcai-phys.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://bjcai-phys.github.io/images/me2.jpg"
+  avatar           : "https://bjcai-phys.github.io/images/sgt.jpg"
   name             : "Bao-Jun Cai"
   pronouns         : # example: "she/her"  
   bio              : "Dense Matter Equation of State, Short Range Correlations, Physics of Neutron Stars, Statistical Learning Algorithms"
