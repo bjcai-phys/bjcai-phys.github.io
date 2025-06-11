@@ -34,7 +34,7 @@ Work experience
 
 Research Interests
 ======
-* Nucleon Short-range Correlations 
+* Nucleon-nucleon Short-range Correlations 
 * Superdense Neutron Star Matter
 * Quantum Hadrodynamics and QCD-based Effective Theories
 * Exotic Resonance States and Nucleon-hyperon Interactions in Neutron Stars
