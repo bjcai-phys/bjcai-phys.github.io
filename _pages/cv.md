@@ -36,13 +36,13 @@ Research Interests
 ======
 * Nucleon Short-range Correlations and Their Impacts in Heavy-ion Collisions
 * Equation of State and Transport Properties of Superdense Neutron Star Matter
-* Quantum Hadrodynamics and QCD-based Effective Theoreis 
-* Nucleon-hyperon Interactions, Exotic Resonance States
-* Neutrino-nucleus Coherent Interactions at Low Energies in Dense Matter
-* Strong-fields and Vacuum Polarization Effects on Neutron Stars and Heavy-ion Collisions
+* Quantum Hadrodynamics and QCD-based Effective Theories
+* Exotic Resonance States and Nucleon-hyperon Interactions in Neutron Stars
+* Neutrino-nucleus Coherent Interactions at Low Energies
+* Strong-field QED and Vacuum Polarization Effects in Neutron Stars
 * Astrophysical Magnetohydrodynamics, Nonlinear/Turbulent Processes
 * Non-equilibrium Many-body Theories, Close-time Green’s Function Methods
 * Computational Physics, Bayesian Optimization and Large-scale Computing
-* Computer Vision Algorithms, 3D Reconstruction, Motion Estimate, Statistical Learning
+* Computer Vision Algorithms, 3D Reconstruction, Statistical Learning
 
 
