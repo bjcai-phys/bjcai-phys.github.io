@@ -41,6 +41,7 @@ Research Interests
 * Neutrino-nucleus Coherent Interactions at Low Energies
 * Strong-field QED and Vacuum Polarization Effects in Neutron Stars
 * Non-equilibrium Many-body Theories, Close-time Green’s Function Methods
+* Astrophysical Magnetohydrodynamics, Nonlinear (turbulent) Processes
 * Computational Physics, Bayesian Optimization and Large-scale Computing
 * Computer Vision Algorithms, 3D Reconstruction, Statistical Learning
 
