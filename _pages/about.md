@@ -26,7 +26,7 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 <br>
 
 ### Useful Links:
-[Institute of Modern Physics@Fudan–2025 Summer Camp Application Notice (Applications Open: June 10–24)](https://mp.weixin.qq.com/s/CjNtUoCTWvhyMr-NTT-sAA)
+[Institute of Modern Physics@Fudan–2025 Summer Camp (Applications Open: June 10–24)](https://mp.weixin.qq.com/s/CjNtUoCTWvhyMr-NTT-sAA)
 
 <br>
 
