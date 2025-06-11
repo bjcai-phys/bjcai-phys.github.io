@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Bao-Jun Cai's Homepage"
+title                    : "Bao-Jun Cai's Website"
 title_separator          : "-"
 name                     : &name "Bao-Jun Cai"
 description              : "Strongly Interacting Cold Dense Matter"
