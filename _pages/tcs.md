@@ -13,4 +13,4 @@ author_profile: true
 
 ### Seminar on Many-body Physics and Linear Response Theories
 * basis of Green's function theories and linear response 
-* [a short lecture note](https://bjcai-phys.github.io/images/LectMB.pdf)
+* [first six lectures of the note](https://bjcai-phys.github.io/images/LN_GFxx.pdf)
