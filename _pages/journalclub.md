@@ -19,7 +19,7 @@ I will put related material in this section eventually.
    ![](https://bjcai-phys.github.io/images/NRcpp.jpg){:width="30%"}       ![](https://bjcai-phys.github.io/images/NRfortran.jpg){:width="30.3%"}
   -->
 
-* ### the book focusing on [matrix calculations](https://[numerical.recipes](https://www.amazon.com/dp/1421407949/ref=mes-dp?_encoding=UTF8&pd_rd_w=GCZKX&content-id=amzn1.sym.a8908360-3609-476b-8c64-1eef634998b7&pf_rd_p=a8908360-3609-476b-8c64-1eef634998b7&pf_rd_r=ZBT9MN6XHYGQ52NYWM7J&pd_rd_wg=3xu8J&pd_rd_r=3182eee5-5976-4b4d-9444-b47cca0b6c35))
+* ### the book on [matrix calculations](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/1421407949/ref=sr_1_1?crid=KDZCJ4MFEI57&dib=eyJ2IjoiMSJ9.3DfGm1tfiW4BLD9tUrw5uwLaFsOth4LR5fANRwb7OaXsWbMlkyv4lR-Eigfqz-ZSV8WrJupXP8rdHZf-JdGgWH9RD6P75orxLYkPovZZff0j7rP_HIRwOzyJuVqyeyQkHUSlQC3BrWHqyYVITeabIlpV-Aap8VYBAO4TASmj_gGihxCaSEVvU3GOwHmuBk3uH0AZeuyBpOCKkzYZU03fyDf_qgD-WUmdGW82q3k2hUo.7gPxm5ixiL0FBt5rGD1GjEMHI0LnyYepZXfZ__J_Vog&dib_tag=se&keywords=matrix+computations&qid=1749684886&s=books&sprefix=matrix+computatio%2Cstripbooks%2C319&sr=1-1)
    <!-- ![](https://bjcai-phys.github.io/images/MCgolub.jpg){:width="30%"} -->
    
 * ### the textbook for learning [physics of neutron stars](https://www.amazon.com/Black-Holes-White-Dwarfs-Neutron/dp/0471873160)
