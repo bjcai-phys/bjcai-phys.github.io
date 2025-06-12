@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching and Courses"
+title: "Teaching, Courses and Lecture Notes"
 permalink: /tcs/
 author_profile: true
 ---
