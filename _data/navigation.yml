@@ -26,7 +26,7 @@ main:
  # - title: "Teaching"
  #   url: /teaching/ 
  
-  - title: "Teaching"
+  - title: "Lecture Notes"
     url: /tcs/    
 
   - title: "Journal Club"
