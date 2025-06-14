@@ -25,7 +25,7 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 
 <br>
 
-### Useful Links:
+### Related Links:
 [Institute of Modern Physics@Fudan–2025 Summer Camp (Applications Open: June 10–24)](https://mp.weixin.qq.com/s/CjNtUoCTWvhyMr-NTT-sAA)
 
 [6/12/2025: Our study on neutron star compactness scaling was recently accepted for publication in *Physical Review D*.](https://arxiv.org/abs/2406.05025)
