@@ -21,7 +21,7 @@ Understanding the extreme physical conditions inside neutron stars is a major ch
 
 $$\mathcal{U}/\mathcal{U}_{\rm{c}}=1+\sum_{i+j\geq1}^{\infty}u_{ij}\mu^i{\rm X}^j$$
 
-$$ M_{\rm{NS}}\sim \frac{\Pi_{\rm{c}}^{3/2}}{\sqrt{\varepsilon_{\rm{c}}}},R\sim \frac{\Pi_{\rm{c}}^{1/2}}{\sqrt{\varepsilon_{\rm{c}}}},\Pi_{\rm{c}}=\frac{{\rm X}}{1+3{\rm X}^2+4{\rm X}},{\rm X}=P_{\rm{c}}/\varepsilon_{\rm{c}}$$
+$$ M_{\rm{NS}}\sim \frac{\Pi_{\rm{c}}^{3/2}}{\sqrt{\varepsilon_{\rm{c}}}},R\sim \frac{\Pi_{\rm{c}}^{1/2}}{\sqrt{\varepsilon_{\rm{c}}}},\Pi_{\rm{c}}=\frac{2{\rm X}}{1+3{\rm X}^2+4{\rm X}},{\rm X}=P_{\rm{c}}/\varepsilon_{\rm{c}}$$
 
 ![](https://bjcai-phys.github.io/images/w1.png){:width="100%"}
 
