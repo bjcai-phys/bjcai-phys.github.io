@@ -18,6 +18,8 @@ Nucleon-nucleon short range correlations (NN-SRCs) refer to the phenomenon where
 
 Our group is investigating novel aspects of NN-SRCs and their wide-ranging implications, including the origin and detailed characterization of the high momentum tail in atomic nuclei, the impact of isospin and finite-size effects of the high momentum tail on the equation of state of dense nuclear matter, and the self-consistent inclusion of SRC effects in heavy-ion collision dynamics. Their research also explores how NN-SRCs influence neutron star properties, modify neutrino-nucleus scattering across energy scales, and uncover intriguing parallels with high momentum tail phenomena observed in ultra-cold atomic gases, all with the goal of deepening our understanding of nuclear interactions from microscopic to astrophysical scales and revealing the fundamental principles governing these complex quantum many-body systems.
 
+Related Courses: (1) Quantum Many-body Theories; (2) Nuclear Reaction/Structure Theories.
+
 
 
 ## Dense Matter in Neutron Star Cores under Strong-field Gravity
