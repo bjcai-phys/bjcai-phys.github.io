@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Talk given at National Nuclear Reaction Conference
-* 7/1/2025-7/3/2025, Xian/China
+* 7/1/2025-7/3/2025, Xian Jiaotong University/Xian/China
 * Title: Dense Matter in Neutron Star Cores and Maximum Mass for Stable Neutron Stars
 
 ### Invited Talk given at [12th International Symposium on Nuclear Symmetry Energy](https://indico.in2p3.fr/event/31700/overview)
