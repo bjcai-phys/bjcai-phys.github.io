@@ -5,6 +5,10 @@ permalink: /tps/
 author_profile: true
 ---
 
+### Talk given at [National Nuclear Reaction Conference]
+* 7/1/2025-7/3/2025, Xian/China
+* Title: [Dense Matter in Neutron Star Cores and Maximum Mass for Stable Neutron Stars]
+
 ### Invited Talk given at [12th International Symposium on Nuclear Symmetry Energy](https://indico.in2p3.fr/event/31700/overview)
 * 9/9/2024-9/14/2024, GANIL/Caen/France
 * Title: [Equation of State of Dense Matter in Neutron Star Cores](https://indico.in2p3.fr/event/31700/contributions/142308/)
