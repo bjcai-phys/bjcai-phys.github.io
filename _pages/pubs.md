@@ -57,7 +57,7 @@ This work generalizes the Hugenholtz–Van Hove theorem to arbitrary spatial dim
 This project investigates the intrinsic correlations between the equation of state parameters of symmetric nuclear matter and the nuclear symmetry energy, based on the fundamental physical constraint that pure neutron matter is unbound in nature that is, it does not saturate at any finite density and continues to lower its energy as the density decreases. By expressing the energy per nucleon of neutron-rich matter as a power series in isospin asymmetry, an analytical condition is derived from setting the saturation density of pure neutron matter to zero. This leads to sum rules that link key symmetry energy parameters, such as its slope, curvature, and skewness, to better-determined parameters of symmetric nuclear matter, such as incompressibility, skewness, and kurtosis. These model-independent correlations reproduce trends observed in various microscopic and phenomenological studies, offering a powerful tool to constrain the poorly known high-density behavior of nuclear symmetry energy using more reliably known properties of symmetric matter.
 For details, see <a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.103.034607" target="_blank">this paper</a>.
 
-$$L\approx\frac{K_0}{3}\cdot(1+\textrm{''corrections''})$$
+$$L\approx\frac{K_0}{3}\cdot(1+\textrm{``corrections''})$$
 
 ![](https://bjcai-phys.github.io/images/w-unbound.png){:width="100%"}
 
