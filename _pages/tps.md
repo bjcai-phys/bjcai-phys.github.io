@@ -4,6 +4,9 @@ title: "Talks and Presentations"
 permalink: /tps/
 author_profile: true
 ---
+### Talk given at [13th International Symposium on Nuclear Symmetry Energy](https://indico2.riken.jp/event/5134/overview)
+* 9/8/2025-9/13/2025, Kobe/Japan
+* Title: [Equation of State of Neutron Star Cores and Maximum Mass for Stable Neutron Stars](https://indico2.riken.jp/event/5134/contributions/26313/)
 
 ### Talk given at National Nuclear Reaction Conference
 * 7/1/2025-7/3/2025, Xian Jiaotong University/Xian/China
