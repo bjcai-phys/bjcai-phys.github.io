@@ -5,8 +5,13 @@ permalink: /tcs/
 author_profile: true
 ---
 
+### Introduction to Algorithms for Data Science and Physics
+* Institute of Modern Physics, Fudan
+* 2026 Springer Semster
+* Target Audience: Advanced Undergraduate and Graduate Students in Physics, Computer Science and Related
+* Preliminary Syllabus: [Syllabus](https://bjcai-phys.github.io/images/Tu1-pp.pdf)
 
-### An Introduction to Algorithms for Data Science
+### Introduction to Algorithms for Data Science
 * based on courses of 2018-2021
 * topics included: *Optimization Algorithms, 3D Reconstruction from 2D Images, High-dimensional Statistical Problems, Bayesian Inference, Fast Fourier Transform, Randomized/Approximated Computing, Differencing for Partial Differential Equations, Quantum Algorithms*
 * two short lecture notes [1](https://bjcai-phys.github.io/images/Tu1-pp.pdf) and [2](https://bjcai-phys.github.io/images/Tu2-pp.pdf)
