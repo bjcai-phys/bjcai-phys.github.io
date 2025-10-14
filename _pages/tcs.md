@@ -7,7 +7,7 @@ author_profile: true
 
 ### Introduction to Algorithms for Data Science and Physics
 * Institute of Modern Physics, Fudan
-* Springer Semester, 2026
+* Spring Semester, 2026
 * Target Audience: Advanced Undergraduate and Graduate Students in Physics, Computer Science and Related
 * Preliminary [Syllabus](https://bjcai-phys.github.io/images/Syllabus-2026-DataScience.pdf)
 
