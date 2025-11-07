@@ -26,9 +26,9 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 <br>
 
 ### Related Links:
-[2026 PhD Admissions Guidelines (Application/Assessment), Institute of Modern Physics, Fudan University](https://imp.fudan.edu.cn/81/9b/c48956a754075/page.htm)
-
 [11/6/2025: New Preprint: Trace Anomaly at Neutron Star Centers](https://arxiv.org/abs/2511.03714)
+
+[10/30/2025: 2026 PhD Admissions Guidelines (Application/Assessment), Institute of Modern Physics, Fudan University](https://imp.fudan.edu.cn/81/9b/c48956a754075/page.htm)
 
 [Institute of Modern Physics@Fudan–2025 Summer Camp (Applications Open: June 10–24)](https://mp.weixin.qq.com/s/CjNtUoCTWvhyMr-NTT-sAA)
 
