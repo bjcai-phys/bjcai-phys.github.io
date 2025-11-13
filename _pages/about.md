@@ -26,6 +26,9 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 <br>
 
 ### Related Links:
+
+11/11/2025 [New Preprint: On Sharp Phase Transitions in Cold Neutron Stars](https://arxiv.org/abs/2511.08380)
+
 11/6/2025 [New Preprint: Trace Anomaly at Neutron Star Centers](https://arxiv.org/abs/2511.03714)
 
 10/30/2025 [2026 PhD Admissions Guidelines (Application/Assessment), Institute of Modern Physics, Fudan University](https://imp.fudan.edu.cn/81/9b/c48956a754075/page.htm)
