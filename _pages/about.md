@@ -25,7 +25,7 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 
 <br>
 
-### Related Links:https:
+### Related Links:
 
 12/5/2025 [New Preprint: Review Paper on Nucleon Short-Range Correlations and Dense Matter Equation of State](https://arxiv.org/abs/2512.04206)
 
