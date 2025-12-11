@@ -27,6 +27,8 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 
 ### Related Links:
 
+12/9/2025 Acceptance of our [New Preprint: Trace Anomaly at Neutron Star Centers](https://arxiv.org/abs/2511.03714) for publication in *Physical Review D*
+
 12/5/2025 [New Preprint: Review Paper on Nucleon Short-Range Correlations and Dense Matter Equation of State](https://arxiv.org/abs/2512.04206)
 
 11/11/2025 [New Preprint: On Sharp Phase Transitions in Cold Neutron Stars](https://arxiv.org/abs/2511.08380)
@@ -37,7 +39,7 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 
 6/15/2025 [Institute of Modern Physics@Fudan–2025 Summer Camp (Applications Open: June 10–24)](https://mp.weixin.qq.com/s/CjNtUoCTWvhyMr-NTT-sAA)
 
-6/12/2025 [Our study on neutron star compactness scaling was recently accepted for publication in *Physical Review D*.](https://arxiv.org/abs/2406.05025)
+6/12/2025 [Our study on neutron star compactness scaling was recently accepted for publication in *Physical Review D*](https://arxiv.org/abs/2406.05025)
 
 <br>
 
