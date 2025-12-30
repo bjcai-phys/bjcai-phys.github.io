@@ -27,6 +27,8 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 
 ### Related Links:
 
+12/30/2025 [New Preprint: Review Paper on Neutron Star Equation of State and Nucleon Short-Range Correlations](https://arxiv.org/abs/2512.23455)
+
 12/9/2025 Acceptance of our [New Preprint: Trace Anomaly at Neutron Star Centers](https://arxiv.org/abs/2511.03714) for publication in *Physical Review D*
 
 12/5/2025 [New Preprint: Review Paper on Nucleon Short-Range Correlations and Dense Matter Equation of State](https://arxiv.org/abs/2512.04206)
