@@ -25,13 +25,13 @@ main:
 
  # - title: "Teaching"
  #   url: /teaching/ 
- 
-  - title: "Lecture Notes"
-    url: /tcs/    
 
   - title: "Algo-DS&Phys-2026"
     url: /ADSP2026/
 
+  - title: "Lecture Notes"
+    url: /tcs/    
+    
   - title: "Journal Club"
     url: /jc/
         
