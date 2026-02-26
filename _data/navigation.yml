@@ -27,7 +27,7 @@ main:
  #   url: /teaching/ 
 
   - title: "Algorithms-2026"
-    url: /ADSP2026/
+    url: /algo2026/
 
   - title: "Lecture Notes"
     url: /tcs/    
