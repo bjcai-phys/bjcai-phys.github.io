@@ -27,6 +27,8 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 
 ### Related Links:
 
+3/19/2026 Publication of our 143-page review on [Nucleon Short-range Correlations and Equation of State of Dense Matter] (https://link.springer.com/article/10.1140/epjs/s11734-026-02227-9)
+
 1/7/2026 [New Preprint: Universal Upper Bound on Ratio of Pressure over Energy Density](https://arxiv.org/abs/2601.02980)
 
 12/30/2025 [New Preprint: Review Paper on Neutron Star Equation of State and Nucleon Short-Range Correlations](https://arxiv.org/abs/2512.23455)
