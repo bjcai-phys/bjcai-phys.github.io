@@ -27,7 +27,7 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 
 ### Related Links:
 
-6/19/2026 Publication of our 32-page review on [Neutron Star Equation of State with Nucleon Short-range
+6/29/2026 Publication of our 32-page review on [Neutron Star Equation of State with Nucleon Short-range
 Correlations](https://www.worldscientific.com/doi/epdf/10.1142/S0217732326300053)
 
 
