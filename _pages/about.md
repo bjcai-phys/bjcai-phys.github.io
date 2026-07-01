@@ -27,6 +27,10 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 
 ### Related Links:
 
+6/19/2026 Publication of our 32-page review on [Neutron Star Equation of State with Nucleon Short-range
+Correlations](https://www.worldscientific.com/doi/epdf/10.1142/S0217732326300053)
+
+
 6/19/2026 [New Preprint: New Scaling of Neutron Star Tidal Deformability for Probing the Core Equation of State](https://arxiv.org/abs/2606.21402)
 
 3/19/2026 Publication of our 137-page review on [Nucleon Short-range Correlations and Equation of State of Dense Matter](https://link.springer.com/article/10.1140/epjs/s11734-026-02227-9)
