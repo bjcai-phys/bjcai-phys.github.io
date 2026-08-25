@@ -27,9 +27,10 @@ We believe science thrives on **curiosity**, **focus**, **collaboration**, and *
 
 ### Related Links:
 
+8/25/2026 Publication of our [recent work on upper bound on the EOS parameter in neutron stars](https://journals.aps.org/prd/abstract/10.1103/1c3x-5w3k)
+
 6/29/2026 Publication of our 32-page review on [Neutron Star Equation of State with Nucleon Short-range
 Correlations](https://www.worldscientific.com/doi/epdf/10.1142/S0217732326300053)
-
 
 6/19/2026 [New Preprint: New Scaling of Neutron Star Tidal Deformability for Probing the Core Equation of State](https://arxiv.org/abs/2606.21402)
 
